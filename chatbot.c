@@ -15,7 +15,11 @@ int main() {
 
     printf("Hello, %s\n",name);
     printf("Try prompts like,\n");
-    printf("1.my name\n2.HELLO your name\n 3.calculator\n4.good bye\n5.department\n");
+    printf("1.my name\n");
+    printf("2.HELLO your name\n
+    printf("3.calculator\n");
+    printf("4.good bye\n")
+    printf("5.department\n");
     sepretor();
 
     home: ///our home page
