@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "string.h"
 // sepretor();////function ahee section seprate karnya sathi
-int main() {
+int main() 
+{
 
    
     void sepretor();
